@@ -1,3 +1,3 @@
-# leoy.github.io
+# leoy.github.io/codes
 
 My First Website
